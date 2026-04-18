@@ -12,9 +12,9 @@ A mission-based 3D zombie shooter built in Unity with custom AI behaviour, wave-
 
 ## 📱 Screenshots
 
-| Gameplay | Enemy AI | Level |
+| Lobby | Gameplay | Game Over |
 |---|---|---|
-| ![Gameplay](screenshots/gameplay.png) | ![AI](screenshots/enemy_ai.png) | ![Level](screenshots/level.png) |
+| ![Lobby](https://github.com/rehanfreestyle77-star/OpenWorld-3D-Game/blob/5544e566d353b18855f2077bab3e614692a82ee3/Screenshot%202026-04-18%20130450.png) | ![Gameplay](https://github.com/rehanfreestyle77-star/OpenWorld-3D-Game/blob/5544e566d353b18855f2077bab3e614692a82ee3/Screenshot%202026-04-18%20130621.png) | ![Over](https://github.com/rehanfreestyle77-star/OpenWorld-3D-Game/blob/5544e566d353b18855f2077bab3e614692a82ee3/Screenshot%202026-04-18%20130635.png) |
 
 > Replace the above image paths with your actual screenshot files.
 
