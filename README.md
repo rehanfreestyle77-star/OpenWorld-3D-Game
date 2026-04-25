@@ -1,4 +1,4 @@
-# 🧟 Zombie Slayer — 3D Android Game
+# 🧟 Zombie Slayer — 3D Game
 
 A mission-based 3D zombie shooter built in Unity with custom AI behaviour, wave-based progression, and optimised graphics via Universal Render Pipeline (URP).
 
